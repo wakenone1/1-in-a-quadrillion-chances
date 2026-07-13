@@ -13,4 +13,4 @@ while True:
         print("You found your partner!!!")
         break
     else:
-        print("Skip")
+        print("Number skipped...")
